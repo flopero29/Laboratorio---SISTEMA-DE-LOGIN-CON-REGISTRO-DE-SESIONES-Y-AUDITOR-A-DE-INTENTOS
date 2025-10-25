@@ -48,7 +48,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
    ```bash
    git clone https://github.com/flopero29/Laboratorio---SISTEMA-DE-LOGIN-CON-REGISTRO-DE-SESIONES-Y-AUDITOR-A-DE-INTENTOS.git
    ```
-   o descarga el repositorio como .zip y extrae el contenido en la carpeta htdocs de XAMPP.
+   o descarga el repositorio como .zip y extrae el contenido en la carpeta htdocs de XAMPP o www de XAMPP.
 
 2. **Configurar la BD**
    - Abre phpMyAdmin (http://localhost/phpmyadmin)
