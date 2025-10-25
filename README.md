@@ -46,7 +46,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 1. **Clonar el repositorio**
    ```bash
-   https://github.com/flopero29/Laboratorio---SISTEMA-DE-LOGIN-CON-REGISTRO-DE-SESIONES-Y-AUDITOR-A-DE-INTENTOS.git
+   git clone https://github.com/flopero29/Laboratorio---SISTEMA-DE-LOGIN-CON-REGISTRO-DE-SESIONES-Y-AUDITOR-A-DE-INTENTOS.git
    ```
    o descarga el repositorio como .zip y extrae el contenido en la carpeta htdocs de XAMPP.
 
